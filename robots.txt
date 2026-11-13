@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rastarr.github.io/fixshelf/sitemap.xml
