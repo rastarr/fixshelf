@@ -1,0 +1,69 @@
+# The Fix Shelf
+
+> The Fix Shelf makes printable planners, workbooks and checklists for the parts of life that fall apart — health, habits, pets, weddings, family and work — plus Affinity DTF tools for print shops. Every product is a digital download, used the same day it's bought.
+
+Site: https://rastarr.github.io/fixshelf/
+Stores: https://payhip.com/TheFixShelf, https://cooneymartin.gumroad.com/
+
+## Pages
+
+- [Home](https://rastarr.github.io/fixshelf/): all products and guides, by category.
+- [ADHD Weekly Planner](https://rastarr.github.io/fixshelf/adhd-weekly-reset.html): An ADHD weekly planner built for brains that fight checklists.
+- [About The Fix Shelf — Printable Planners & Affinity DTF Tools](https://rastarr.github.io/fixshelf/about.html): About The Fix Shelf.
+- [Menopause Symptom Tracker](https://rastarr.github.io/fixshelf/menopause-symptom-tracker.html): A 90-day menopause symptom log your doctor can actually use.
+- [12-Month Wedding Planning Checklist](https://rastarr.github.io/fixshelf/wedding-planning-checklist.html): The wedding planning checklist with the scripts vendors don't want you to have.
+- [DTF File Checklist](https://rastarr.github.io/fixshelf/dtf-preflight-checklist.html): Catch bad DTF files before they hit your film.
+- [Free Garment Mockup Maker for DTF Shops (Affinity Script)](https://rastarr.github.io/fixshelf/free-dtf-garment-mockup.html): Free garment proofs your customers can approve in seconds.
+- [Halftone Effect for Affinity](https://rastarr.github.io/fixshelf/halftone-effect-affinity.html): One-click halftones that survive DTF printing.
+- [Grunge Texture Effect for Affinity — Real Wear Without Hand Masking](https://rastarr.github.io/fixshelf/grunge-texture-affinity.html): Real grunge wear from any texture — one script.
+- [Printable Vegetable Garden Planner](https://rastarr.github.io/fixshelf/vegetable-garden-planner.html): A vegetable garden planner with planting calendar, bed maps and a season log.
+- [Can't Sleep? This 4-Week Sleep Reset Workbook Rebuilds Your Nights](https://rastarr.github.io/fixshelf/sleep-reset-workbook.html): A 4-week sleep program with a printable sleep diary and wind-down routine.
+- [Reactive Dog Training Plan](https://rastarr.github.io/fixshelf/reactive-dog-roadmap.html): A 6-week force-free plan for a reactive dog — with trigger log and walk scripts.
+- [Houseplant Care Cards](https://rastarr.github.io/fixshelf/houseplant-care-system.html): A houseplant care system: 30 plant care cards, watering tracker and rescue table.
+- [Dumbbell Workout Plan for Men 35+](https://rastarr.github.io/fixshelf/dad-bod-reset.html): The Dad Bod Reset: a 12-week dumbbell plan for men 35+, three sessions a week.
+- [Career Change Interview Prep Workbook](https://rastarr.github.io/fixshelf/career-change-interview-workbook.html): A career change interview workbook with answer builders and 40 real questions.
+- [Boundaries Scripts](https://rastarr.github.io/fixshelf/boundaries-scripts-book.html): What to say: boundary-setting scripts for family, work, friends and the testers.
+- [Anxiety Grounding Cards](https://rastarr.github.io/fixshelf/anxiety-grounding-toolkit.html): A printable anxiety toolkit: grounding cards, a panic plan and the nightly offload.
+- [Postpartum Recovery Checklist](https://rastarr.github.io/fixshelf/postpartum-recovery-checklist.html): A week-by-week postpartum recovery checklist with partner jobs and red flags.
+- [Pet Loss Grief Journal](https://rastarr.github.io/fixshelf/pet-loss-grief-journal.html): A pet loss grief journal — 30 days of prompts, memory pages and goodbye rituals.
+- [Puppy's First Year Planner](https://rastarr.github.io/fixshelf/puppy-first-year-planner.html): A puppy's first year planner — potty schedule, training milestones and vet logs.
+- [Overthinking Workbook Printable](https://rastarr.github.io/fixshelf/overthinking-workbook.html): An overthinking workbook that gets decisions made and replays shut down.
+- [Burnout Recovery Workbook Printable](https://rastarr.github.io/fixshelf/burnout-recovery-workbook.html): A burnout recovery workbook: the check, the energy audit and the 6-week ladder.
+- [Procrastination Workbook Printable](https://rastarr.github.io/fixshelf/procrastination-rescue.html): A procrastination rescue: the 5-minute door, task shrinkage and the comeback page.
+- [Wedding Day Timeline Template Printable](https://rastarr.github.io/fixshelf/wedding-day-timeline-builder.html): The day-of timeline builder: wedding day schedules that survive real weddings.
+- [Wedding Vendor Questions Checklist](https://rastarr.github.io/fixshelf/vendor-question-scripts.html): Every question for every wedding vendor — with the scripts to ask them.
+- [New Job Planner Printable](https://rastarr.github.io/fixshelf/first-90-days-planner.html): The first 90 days planner: listening map, early wins and the day-90 review prep.
+- [Monthly Budget Planner Printable](https://rastarr.github.io/fixshelf/monthly-money-reset.html): A monthly money reset: expense audit, bill calendar, sinking funds and the subscription sweep.
+- [Moving House Checklist Printable](https://rastarr.github.io/fixshelf/moving-house-planner.html): A moving house planner: 8-week countdown, declutter plan and the essentials box.
+- [New Cat Checklist Printable](https://rastarr.github.io/fixshelf/new-cat-starter-book.html): A new cat starter book: first-week plan, the base camp method and the behavior decoder.
+- [Senior Dog Care Log Printable](https://rastarr.github.io/fixshelf/senior-dog-care-log.html): A senior dog care log: vet prep, medication tracking and the quality-of-life scorecard.
+- [Sourdough Starter Log Printable](https://rastarr.github.io/fixshelf/sourdough-starter-log.html): A sourdough starter log: the 14-day diary, feeding schedules and the bake log.
+- [New Puppy Bundle Printable](https://rastarr.github.io/fixshelf/new-puppy-bundle.html): The new puppy bundle: the first year planner and the reactive dog roadmap together.
+- [Anxiety & Sleep Printable Bundle](https://rastarr.github.io/fixshelf/calm-mind-bundle.html): The Calm Mind bundle: grounding cards, the sleep reset and the overthinking workbook.
+- [Wedding Planning Bundle](https://rastarr.github.io/fixshelf/weddings-master-bundle.html): The complete wedding planning bundle: countdown, vendor scripts and the day-of timeline.
+- [Baby Registry Guide Printable](https://rastarr.github.io/fixshelf/baby-registry-guide.html): A baby registry guide that stops the pile of stuff you'll never use.
+- [Emergency Binder Printable](https://rastarr.github.io/fixshelf/emergency-binder.html): The family emergency binder: everything important, one place, findable in a crisis.
+- [Family School-Year Organizer Printable](https://rastarr.github.io/fixshelf/family-school-year-organizer.html): A school-year organizer that keeps one family's dates, paper and budget straight.
+- [Salary Negotiation Scripts Printable](https://rastarr.github.io/fixshelf/salary-negotiation-scripts.html): Salary negotiation scripts for the moment the offer lands.
+- [First Apartment Checklist Printable](https://rastarr.github.io/fixshelf/first-apartment-checklist.html): The first apartment checklist that catches expensive mistakes before signing.
+- [First Trimester Checklist Printable](https://rastarr.github.io/fixshelf/first-trimester-checklist.html): A first trimester survival checklist for the weeks nobody prepares you for.
+- [Home Maintenance Calendar Printable](https://rastarr.github.io/fixshelf/home-maintenance-calendar.html): A home maintenance calendar that catches the small problems before they're big ones.
+- [Social Battery Workbook Printable](https://rastarr.github.io/fixshelf/social-battery-workbook.html): A social battery workbook that makes the energy math visible.
+- [Travel Packing System Printable](https://rastarr.github.io/fixshelf/travel-packing-system.html): A travel packing system that replaces the pre-trip panic with a list you trust.
+
+## Guides
+
+- [Salary Negotiation Script](https://rastarr.github.io/fixshelf/salary-negotiation-script-guide.html): Word-for-word salary negotiation scripts: the offer-call ask, the email template, the three pushback replies, and the internal promotion variant. Adapt the fills, keep the structure.
+- [Printable ADHD Weekly Reset](https://rastarr.github.io/fixshelf/printable-adhd-weekly-reset.html): A printable ADHD weekly reset routine: 6 steps, one anchor task per day, and a comeback page for when the week derails. Free to follow, printable version included.
+- [Wedding Day Timeline Template](https://rastarr.github.io/fixshelf/wedding-day-timeline-template.html): Copy-ready wedding day timeline templates for 2pm, 3pm and 4pm ceremonies: when to start getting ready, photography buffers, and the five things that break a wedding schedule.
+- [Menopause Symptom Tracker Printable](https://rastarr.github.io/fixshelf/menopause-symptom-tracker-printable.html): A printable menopause symptom tracker method: which symptoms to record, how to log them so your doctor can act, and a 90-day tracker with doctor-visit prep built in.
+- [Puppy Training Schedule by Age](https://rastarr.github.io/fixshelf/puppy-training-schedule-by-age.html): A puppy training schedule by age: daily rhythms for 8–10 weeks, 3 months, 4–6 months and 6–12 months, with feeding, naps, potty timing and what to train at each stage.
+- [Wedding Planning Checklist Printable](https://rastarr.github.io/fixshelf/wedding-planning-checklist-printable.html): A month-by-month wedding planning checklist you can print once and work through: what to book first, when to send invitations, and the budget lines everyone forgets.
+- [Vegetable Garden Planner Printable](https://rastarr.github.io/fixshelf/vegetable-garden-planner-printable.html): How to plan a vegetable garden layout on paper: bed maps with sun tracking, a planting calendar built from your own frost date, and a season log that improves next year's plan.
+- [How to Reset a Messed Up Sleep Schedule (Honest Timeline + Method)](https://rastarr.github.io/fixshelf/sleep-schedule-reset.html): A workable method to reset a messed up sleep schedule: fix the wake time first, morning light, small bedtime shifts, the all-nighter recovery day, and why weekends undo it.
+- [ADHD Task Breakdown](https://rastarr.github.io/fixshelf/adhd-task-breakdown-sheet.html): "Break it into smaller tasks" fails ADHD brains because the steps stay invisible. The four-column breakdown method: smallest visible first move, what started looks like, and what happens after 5 minutes.
+- [ADHD Morning Routine](https://rastarr.github.io/fixshelf/adhd-morning-routine-checklist.html): Why ADHD mornings fail (decisions before coffee) and the two-part fix: a 5-minute night-before setup plus a time-anchored morning checklist for work-day adults.
+- [Best ADHD Daily Planner for Adults? Five Criteria That Actually Matter](https://rastarr.github.io/fixshelf/adhd-daily-planner-adults.html): How to pick an ADHD daily planner as an adult: five criteria that predict whether you'll still use it in March — startability, weekly reset, comeback path, cost of a missed day, printable vs app.
+- [ADHD Brain Dump Template](https://rastarr.github.io/fixshelf/adhd-brain-dump-template.html): A brain dump method that works with ADHD: get everything out of your head in 5 minutes, sort into now / today / someday, and leave with a top 3 — no app required.
+- [DTF Print Settings](https://rastarr.github.io/fixshelf/dtf-print-settings-checklist.html): The DTF print settings and checks to run before every film: file mirroring and transparency, ink density, powder coverage, cure, and heat press starting points.
+- [Free ADHD Printable Planner](https://rastarr.github.io/fixshelf/free-adhd-printable-sampler.html): A genuinely free ADHD printable planner PDF: brain dump page, Sunday reset, comeback page and task breakdown sheet. Instant download, no email required, print what you need.
