@@ -56,6 +56,16 @@ Stores: https://payhip.com/TheFixShelf, https://cooneymartin.gumroad.com/
 - [Home Maintenance Calendar Printable](https://rastarr.github.io/fixshelf/home-maintenance-calendar.html): A home maintenance calendar that catches the small problems before they're big ones.
 - [Social Battery Workbook Printable](https://rastarr.github.io/fixshelf/social-battery-workbook.html): A social battery workbook that makes the energy math visible.
 - [Travel Packing System Printable](https://rastarr.github.io/fixshelf/travel-packing-system.html): A travel packing system that replaces the pre-trip panic with a list you trust.
+- [Savings Challenge Printable Pack](https://rastarr.github.io/fixshelf/savings-challenge-pack.html): Two named savings challenges in one printable pack — 100 envelopes, a 52-week ladder, and trackers you color in.
+- [Medication Tracker Printable](https://rastarr.github.io/fixshelf/medication-tracker.html): A household medication log: one med list, a daily check-off grid and refill tracking on paper.
+- [Weekly Meal Planner Printable with Grocery List](https://rastarr.github.io/fixshelf/weekly-meal-planner.html): The meal plan and the grocery list on one spread — 7 dinners, aisle-sorted shopping, a 10-meal rotation.
+- [House Cleaning Schedule Printable](https://rastarr.github.io/fixshelf/house-cleaning-schedule.html): A cleaning schedule that fits real days: 15 minutes a day, weekly zones, and the monthly deep tasks on a rotation.
+- [Monthly Habit Tracker Printable](https://rastarr.github.io/fixshelf/monthly-habit-tracker.html): A monthly habit tracker built for people who abandon trackers — 31 days, streak insurance, never-miss-twice.
+- [Expense Tracker Printable](https://rastarr.github.io/fixshelf/expense-tracker.html): An expense tracker with daily grain: capture as you spend, total by category, check once a week.
+- [Car Maintenance Log Printable](https://rastarr.github.io/fixshelf/vehicle-maintenance-log.html): A car maintenance log that lives in the glovebox — service schedule by mileage, 18-row service history, fuel tracker.
+- [Family Chore Chart Printable Pack](https://rastarr.github.io/fixshelf/family-chore-chart-pack.html): Chore charts for the whole household — age-appropriate lists, a weekly rotation and a points system.
+- [Homeschool Planner Printable](https://rastarr.github.io/fixshelf/homeschool-planner.html): A homeschool planner that holds the whole year — year map, weekly lesson grids and the attendance log.
+- [Reading Journal Printable](https://rastarr.github.io/fixshelf/reading-journal.html): A reading journal for people who forget what they read — challenge grid, book log, quote pages and the TBR list.
 
 ## Guides
 
