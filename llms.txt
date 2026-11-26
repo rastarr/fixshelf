@@ -4,6 +4,7 @@
 
 Site: https://rastarr.github.io/fixshelf/
 Stores: https://payhip.com/TheFixShelf, https://cooneymartin.gumroad.com/
+Full content: https://rastarr.github.io/fixshelf/llms-full.txt
 
 ## Pages
 
